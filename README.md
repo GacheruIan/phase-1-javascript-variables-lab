@@ -62,7 +62,7 @@ describe('index.js', function () {
 
 `describe` is a function provided by our test library, Mocha, and it's used to
 hold our tests. After the word `describe` is information about our tests. Tests
-are used as a way to document the behavior of a function to developers. For
+are used as a way to document the behavior of a function to devlopers. For
 example, the next word `describe` is followed by the word `companyName`. Here
 the test is telling us that the tests that come afterwards will be about
 `companyName`. Then comes the word `it`, where you see the following:
